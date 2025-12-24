@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIS-lab-2/static/css/main.f855e6bc.css",
+    "main.js": "/VIS-lab-2/static/js/main.091feca7.js",
+    "static/js/453.3ed6dbfc.chunk.js": "/VIS-lab-2/static/js/453.3ed6dbfc.chunk.js",
+    "index.html": "/VIS-lab-2/index.html",
+    "main.f855e6bc.css.map": "/VIS-lab-2/static/css/main.f855e6bc.css.map",
+    "main.091feca7.js.map": "/VIS-lab-2/static/js/main.091feca7.js.map",
+    "453.3ed6dbfc.chunk.js.map": "/VIS-lab-2/static/js/453.3ed6dbfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.091feca7.js"
+  ]
+}
